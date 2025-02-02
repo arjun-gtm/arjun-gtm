@@ -1,6 +1,6 @@
 # 💫 About Me:
-New to coding, hungry to learn, and ready to contribute.
-
+Hi, I’m Arjun! 👋
+I’m a software developer with a focus on web development (MERN stack) and mobile development. I enjoy building projects, exploring new technologies, and contributing to open-source. Feel free to explore my repositories.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arjun.gautam30) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arjun.gtm) 
