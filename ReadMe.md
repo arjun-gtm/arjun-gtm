@@ -1,7 +1,7 @@
 # 💫 About Me
 
 Hey, I’m **Arjun Gautam** 👋
-A passionate Full Stack Developer (MERN) who enjoys building real-world projects, exploring new technologies, and contributing to open-source.
+A passionate **Full Stack Developer (MERN)** who enjoys building real-world projects, exploring new technologies, and contributing to open-source.
 
 I like turning ideas into functional, scalable apps and constantly improving my skills in modern web development.
 
@@ -64,12 +64,6 @@ I like turning ideas into functional, scalable apps and constantly improving my 
 ## 🏆 Achievements
 
 ![](https://github-profile-trophy.vercel.app/?username=arjun-gtm\&theme=radical\&no-frame=true\&no-bg=true\&margin-w=4)
-
----
-
-## 👀 Profile Views
-
-![](https://visitcount.itsvg.in/api?id=arjun-gtm\&icon=0\&color=0)
 
 ---
 
