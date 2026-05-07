@@ -66,10 +66,3 @@ I like turning ideas into functional, scalable apps and constantly improving my 
 ![](https://github-profile-trophy.vercel.app/?username=arjun-gtm\&theme=radical\&no-frame=true\&no-bg=true\&margin-w=4)
 
 ---
-
-## 🚀 Future Improvements
-
-* Add featured projects with links
-* Include currently learning section
-* Add contact email
-* Showcase real-world apps
