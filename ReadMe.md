@@ -58,12 +58,12 @@ I like turning ideas into functional, scalable apps and constantly improving my 
 
 ![](https://github-readme-stats.vercel.app/api?username=arjun-gtm&theme=dark&hide_border=true&show_icons=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=arjun-gtm&theme=dark&hide_border=true)
+![](https://streak-stats.demolab.com?user=arjun-gtm&theme=dark&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-gtm&theme=dark&hide_border=true&layout=compact)
 
 ---
 
-## 🏆 Achievements
+## 📈 Contribution Activity
 
-![](https://github-profile-trophy.vercel.app/?username=arjun-gtm&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+[![Arjun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arjun-gtm&theme=github-dark&hide_border=true)](https://github.com/arjun-gtm)
