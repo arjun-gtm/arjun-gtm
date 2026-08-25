@@ -68,7 +68,7 @@ I like turning ideas into functional, scalable apps and constantly improving my 
 
 ---
 
-## 🔥 Contribution Streak
+**## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=arjun-gtm&theme=dark&hide_border=true" />
@@ -80,7 +80,7 @@ I like turning ideas into functional, scalable apps and constantly improving my 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjun-gtm&theme=github-compact&hide_border=true" width="100%" />
-</p>
+</p>**
 
 ---
 
